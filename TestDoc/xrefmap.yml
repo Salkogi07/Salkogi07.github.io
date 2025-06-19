@@ -1,0 +1,31 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Salkogi
+  name: Salkogi
+  href: api/Salkogi.html
+  commentId: N:Salkogi
+  fullName: Salkogi
+  nameWithType: Salkogi
+- uid: Salkogi.MultiSOTest
+  name: MultiSOTest
+  href: api/Salkogi.MultiSOTest.html
+  commentId: T:Salkogi.MultiSOTest
+  fullName: Salkogi.MultiSOTest
+  nameWithType: MultiSOTest
+- uid: Salkogi.MultiSOTest.ShowMessage(System.String)
+  name: ShowMessage(string)
+  href: api/Salkogi.MultiSOTest.html#Salkogi_MultiSOTest_ShowMessage_System_String_
+  commentId: M:Salkogi.MultiSOTest.ShowMessage(System.String)
+  name.vb: ShowMessage(String)
+  fullName: Salkogi.MultiSOTest.ShowMessage(string)
+  fullName.vb: Salkogi.MultiSOTest.ShowMessage(String)
+  nameWithType: MultiSOTest.ShowMessage(string)
+  nameWithType.vb: MultiSOTest.ShowMessage(String)
+- uid: Salkogi.MultiSOTest.ShowMessage*
+  name: ShowMessage
+  href: api/Salkogi.MultiSOTest.html#Salkogi_MultiSOTest_ShowMessage_
+  commentId: Overload:Salkogi.MultiSOTest.ShowMessage
+  isSpec: "True"
+  fullName: Salkogi.MultiSOTest.ShowMessage
+  nameWithType: MultiSOTest.ShowMessage
